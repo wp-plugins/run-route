@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: run-route
+ * Version: 1.0
  * Description: Adds a shortcode to display links to routes in Endomondo and RunKeeper
  * License: GPLv2 or later
  */
