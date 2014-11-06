@@ -3,10 +3,10 @@
  * Plugin Name: run-route
  * Version: 1.0
  * Author: Neil Boyd
+ * Author URI: http://L6.org/
  * Description: Adds a shortcode to display links to routes in Endomondo and RunKeeper
  * License: GPLv2 or later
  */
-
 
 function run_route_loader() {
     wp_register_style( 'run-route', plugins_url( 'run-route.css', __FILE__ ) );
