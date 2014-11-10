@@ -1,6 +1,6 @@
 === run-route ===
 Contributors: neilb27
-Requires at least: 4.0
+Requires at least: 3.7
 Tags: shortcode,endomondo,runkeeper
 Tested up to: 4.0
 Stable tag: 1.0
@@ -8,6 +8,11 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Adds a shortcode to display links to routes in Endomondo and RunKeeper
+
+== Changelog ==
+
+= 1.0 - 04 Nov 2014 =
+* Initial version
 
 == Description ==
 Adds a shortcode to display links to routes in Endomondo and RunKeeper.
